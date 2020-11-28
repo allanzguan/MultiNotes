@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note Pad</string>
+
+    <string name="file_name">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON File Present</string>
+    <string name="date">Date</string>
+    <string name="about">About</string>
+    <string name="edit">Edit</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="editTitle">Title</string>
+    <string name="editNote">Note</string>
+</resources>
