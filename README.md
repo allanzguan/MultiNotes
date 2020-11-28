@@ -14,7 +14,7 @@ loading.
 ## Main Activity
 - The Main Activity will allow the user to create a new note via an Add options-menu item . Pressing this button will open the Edit Activity with empty Title and Note Text areas.
 <img src="https://github.com/allanzguan/MultiNotes/blob/main/screenshot/device-2020-11-27-214247.png" width="250">
-<img src="https://github.com/allanzguan/MultiNotes/blob/main/screenshot/device-2020-11-27-214342.png">
+<img src="https://github.com/allanzguan/MultiNotes/blob/main/screenshot/device-2020-11-27-214342.png" height="250">
 
 ---
 ## Edit Activity
